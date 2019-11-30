@@ -1,0 +1,78 @@
+h1 {
+	color: black;
+	font-size: 30px;
+}
+h2 {
+	text-align: center;	
+	color: white;
+	font-size: 30px;
+}
+h3 {
+	text-align: center;	
+	color: black;
+	font-size: 30px;
+}
+.note {
+	color: black;
+	font-size: 16px;
+}
+.About { 
+  text-align: center;
+  background-color: white;
+  color: black;
+  font-size: 18pt;
+height: 500px;
+background: #007acc
+
+}
+.Name { 
+  text-align: center;
+   color: white;
+  font-size: 30pt;
+height: 50px;
+    padding-bottom: 30px;
+}
+.Goal { 
+  text-align: center;
+  color: #EEEEEE;
+  font-size: 20ptem;
+height: 40px;
+}
+.tinytext { 
+  text-align: center;
+   color: black;
+  font-size: 10pt;
+height: 20px;
+}
+.block2 { 
+  text-align: center, justify;
+  background-color: white;
+  color: #EEEEEE;
+  font-size: 18pt;
+/* height: auto; */
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-right: 60px;
+  padding-left: 60px;
+background: #007acc
+}
+.block3 { 
+  text-align: center;
+  background-color: white;
+  color: #EEEEEE;
+  font-size: 18pt;
+
+  padding-top: 50px;
+    padding-bottom: 50px;
+}
+.description { 
+  text-align: justify;
+  color: black;
+  font-size: 15pt;
+  padding-right: 150px;
+  padding-left: 150px;
+/* width: 250px; */
+/*  height: 20px; */
+/*    margin-right: 110px; */
+/*  margin-left: 220px; */
+}
